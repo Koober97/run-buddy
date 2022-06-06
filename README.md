@@ -12,3 +12,5 @@ https://koober97.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Brian Koo
+
+### ©️2019 Run Buddy, Inc
